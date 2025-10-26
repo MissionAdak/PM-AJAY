@@ -175,7 +175,7 @@ This project was built for Smart India Hackathon 2024. For any issues or suggest
 
 ## 📄 License
 
-This project is developed for educational purposes as part of Smart India Hackathon 2024.
+This project is developed for educational purposes as part of Smart India Hackathon 2025.
 
 ---
 
